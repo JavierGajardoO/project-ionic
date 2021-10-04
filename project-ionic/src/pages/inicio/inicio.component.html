@@ -1,0 +1,56 @@
+<ion-content
+[fullscreen]="true">
+    
+    <ion-grid class="full">
+        <ion-row class="full ion-align-items-center">
+            <ion-col size="10" offset="1">
+                    <ion-card>
+                        <ion-card-header class="ion-text-center">
+                            Bienvenido
+                        </ion-card-header>
+                        <ion-card-content>
+                            
+                            <ion-grid>
+                                <ion-row>
+                                    <ion-col>
+                                        <Ion-Item>
+                                            <Ion-Label position="floating">Usuario</Ion-Label>
+                                            <Ion-Input type=text></Ion-Input>
+                                          </Ion-Item>
+                                    </ion-col>
+                                </ion-row>
+                                <ion-row>
+                                    <ion-col>
+                                        <Ion-Item>
+                                            <Ion-Label position="floating">Contraseña</Ion-Label>
+                                            <Ion-Input type=password></Ion-Input>
+                                          </Ion-Item>
+                                    </ion-col>
+                                </ion-row>
+
+                                <ion-row>
+                                    <ion-col size="6" >                                       
+                                        <ion-router-link href="">
+                                            <ion-button>
+                                                Volver
+                                            </ion-button>
+                                        </ion-router-link>
+                                        
+                                    </ion-col>
+
+                                    <ion-col size="6" >                                        
+                                        <ion-router-link href="menu">
+                                            <ion-button>
+                                                Ingresar
+                                            </ion-button>
+                                        </ion-router-link>
+                                        
+                                    </ion-col>
+                                </ion-row>
+                            </ion-grid>
+                        </ion-card-content>
+                    </ion-card>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-content>
