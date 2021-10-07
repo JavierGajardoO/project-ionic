@@ -14,6 +14,7 @@ import { RegistroComponent } from 'src/pages/registro/registro.component';
 import { RecibidosComponent } from 'src/pages/recibidos/recibidos.component';
 import { EnviarmsjComponent } from 'src/pages/enviarmsj/enviarmsj.component';
 import { ListadoComponent } from 'src/pages/listado/listado.component';
+import { olvidasteContrasenaComponent } from 'src/pages/olvidasteContraseña/olvidasteContrasena.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { ListadoComponent } from 'src/pages/listado/listado.component';
     RegistroComponent,
     RecibidosComponent,
     EnviarmsjComponent,
-    ListadoComponent
+    ListadoComponent,
+    olvidasteContrasenaComponent
 
   ],
   entryComponents: [],

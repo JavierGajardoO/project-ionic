@@ -7,6 +7,7 @@ import { ListadoComponent } from 'src/pages/listado/listado.component';
 
 import { MainComponent } from 'src/pages/main/main.component';
 import { MenuComponent } from 'src/pages/menu/menu.component';
+import { olvidasteContrasenaComponent } from 'src/pages/olvidasteContraseña/olvidasteContrasena.component';
 import { RecibidosComponent } from 'src/pages/recibidos/recibidos.component';
 import { RegistroComponent } from 'src/pages/registro/registro.component';
 
@@ -42,6 +43,10 @@ const routes: Routes = [
   {
     path: 'listado',
     component: ListadoComponent
+  },
+  {
+    path: 'olvidasteContrasena',
+    component: olvidasteContrasenaComponent
   }
 
 ];
