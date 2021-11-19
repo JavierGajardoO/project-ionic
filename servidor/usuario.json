@@ -1,0 +1,24 @@
+{
+  "usuario": [
+    {
+      "nombre": "Jorge",
+      "apellido": "Fuentes",
+      "Run": "20.454.327-5",
+      "id": 1
+    },
+    {
+      "nombre": "José",
+      "apellido": "Contreras",
+      "Run": "18.314.324-2",
+      "id": 2
+    },
+    {
+      "nombre": "Jorge",
+      "apellido": "Fuentes",
+      "nombreUsuario": "Escanor",
+      "password": "123123",
+      "fechaNac": "2021-11-07T21:22:08.948-03:00",
+      "id": 3
+    }
+  ]
+}
