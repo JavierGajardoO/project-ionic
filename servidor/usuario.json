@@ -1,0 +1,56 @@
+{
+  "usuario": [
+    {
+      "nombre": "Jorge",
+      "apellido": "Fuentes",
+      "Run": "20.454.327-5",
+      "id": 1
+    },
+    {
+      "nombre": "José",
+      "apellido": "Contreras",
+      "Run": "18.314.324-2",
+      "id": 2
+    },
+    {
+      "nombre": "Jorge",
+      "apellido": "Fuentes",
+      "nombreUsuario": "Escanor",
+      "password": "123123",
+      "fechaNac": "2021-11-07T21:22:08.948-03:00",
+      "id": 3
+    },
+    {
+      "nombre": "test",
+      "apellido": "akjhghjg",
+      "nombreUsuario": "uyguy",
+      "password": "duoc123",
+      "fechaNac": "2021-11-20T00:34:19.027-03:00",
+      "id": 4
+    },
+    {
+      "nombre": "555err",
+      "apellido": "re",
+      "nombreUsuario": "tretre",
+      "password": "tretre",
+      "fechaNac": "2021-11-21T00:39:04.525-03:00",
+      "id": 5
+    },
+    {
+      "nombre": "test",
+      "apellido": "gfdg",
+      "nombreUsuario": "gdgd",
+      "password": "54345",
+      "fechaNac": "2021-05-16T00:41:13.500-04:00",
+      "id": 6
+    },
+    {
+      "nombre": "nombre_test",
+      "apellido": "apellido_test",
+      "nombreUsuario": "user_777",
+      "password": "duoc123",
+      "fechaNac": "2021-11-22T22:19:43.147-03:00",
+      "id": 7
+    }
+  ]
+}
